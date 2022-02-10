@@ -1,40 +1,48 @@
 ## Eddy's Resume
 
-You can use the [editor on GitHub](https://github.com/denvrg/denvrg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a website to show Eddy's education, working experience, and goals for the future.
 
 ### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+College
+Bachlors of Science - Computer Science
 
-# Header 1
-## Header 2
-### Header 3
+- California State University Stanislaus
+  August 2020 - May 2022
+- Modesto Junior College
+  August 2018 - May 2020
 
-- Bulleted
-- List
+High School
 
-1. Numbered
-2. List
+- Gregori High School
+  August 2014 - May 2018
+  
+Certifications
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Comp TIA A+
+  November 2019
+- Comp TIA Network+
+  July 2020
+- Comp TIA Security+
+  December 2022
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Work History
 ```markdown
+- Best Buy
+  Geek Squad Repair Professional - April 2020 to Current
+  * Perform diagnostics and navigate requested and recommended repairs in a timely fashion
+  * Phone and in-person contact with clients to reveal diagnostic discoveries and make recommendations for protecting and defending client devices
+  * Partner with other team members to ensure proper documentation of client requests
+  * Attend targeted trainings and complete necessary certifications
 
+- CCTV Security Solutions
+  Security Monitor - December 2018 to March 2020
+  * Monitor security feeds of client cameras
+  * Report activity to management and appropriate law enforcement
+  * Generate reports based on daily activity 
+  * Maintain and service network computer used to access security network
 ```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/denvrg/denvrg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Goals and Ambitions
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# None of this is information is true I made most of it up. It is just a placeholder for this project.
