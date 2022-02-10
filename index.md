@@ -1,8 +1,8 @@
-## Eddy's Resume
+# Eddy's Resume
 
 This is a website to show Eddy's education, working experience, and goals for the future.
 
-### Education
+## Education
 
 ```markdown
 College
@@ -28,7 +28,7 @@ Certifications
   December 2022
 ```
 
-### Work History
+## Work History
 ```markdown
 - Best Buy
   Geek Squad Repair Professional - April 2020 to Current
@@ -45,4 +45,4 @@ Certifications
   * Maintain and service network computer used to access security network
 ```
 
-# None of this is information is true I made most of it up. It is just a placeholder for this project.
+### None of this is information is true I made most of it up. It is just a placeholder for this project.
