@@ -45,4 +45,4 @@ Certifications
   * Maintain and service network computer used to access security network
 ```
 
-### None of this is information is true I made most of it up. It is just a placeholder for this project.
+### None of this is information is true, I made most of it up. It is just a placeholder for this project.
